@@ -1,0 +1,8 @@
+body{font-family:'Segoe UI',sans-serif;margin:0;padding:0;background:#1e1e1e;color:#fff;}
+#chat-container{max-width:500px;margin:50px auto;padding:10px;background:#2a2a2a;border-radius:10px;overflow:auto;min-height:400px;}
+.bubble{padding:10px 15px;margin:8px 0;border-radius:15px;max-width:80%;word-wrap:break-word;}
+.user{background:#3a86ff;color:#fff;margin-left:auto;text-align:right;}
+.nexie{background:#06d6a0;color:#000;margin-right:auto;text-align:left;}
+#input-container{display:flex;margin-top:10px;padding:0 10px;}
+#user-input{flex:1;padding:10px;border-radius:15px;border:none;}
+#send-btn{padding:10px 15px;margin-left:5px;border:none;border-radius:15px;background:#3a86ff;color:#fff;cursor:pointer;}
